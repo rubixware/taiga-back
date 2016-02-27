@@ -22,6 +22,7 @@ answer newbie questions, and generally made taiga that much better:
 - Andrey Alekseenko <al42and@gmail.com>
 - Chris Wilson <chris.wilson@aridhia.com>
 - David Burke <david@burkesoftware.com>
+- Everardo Medina <everblut@gmail.com>
 - Hector Colina <hcolina@gmail.com>
 - Joe Letts
 - Julien Palard
